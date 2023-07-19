@@ -1,0 +1,19 @@
+# Common IntelliJ Platform excludes
+
+# User specific
+.idea/
+
+*.suo
+*.user
+*.vs/
+*.dll
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+*.csproj
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+/bin\Debug
+/obj
